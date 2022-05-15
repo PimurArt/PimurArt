@@ -1,6 +1,6 @@
 Privacy Policy
 Overview
-This Privacy Policy describes the information collected by Ksenia Smirnova ("I", "me", "mine") through her PimurArt mobile application and how she uses this information.
+This Privacy Policy describes the information collected by Xenia Smirnova ("I", "me", "mine") through her PimurArt mobile application and how she uses this information.
 I do not collect any personal information with my app
 When you download and use my application, I do not require you to provide any information and do not collect any information about you or your device. In other words, I do not collect information such as your full name, address, phone number, or email address.
 Location Information
